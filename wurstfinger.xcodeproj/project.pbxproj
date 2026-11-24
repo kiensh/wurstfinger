@@ -285,7 +285,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4275118D2EAAF62000C5635A /* Build configuration list for PBXProject "Wurstfinger" */;
+			buildConfigurationList = 4275118D2EAAF62000C5635A /* Build configuration list for PBXProject "wurstfinger" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -521,7 +521,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4WPG6NQAWC;
+				DEVELOPMENT_TEAM = ANA5H558Q2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Wurstfinger;
@@ -536,7 +536,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = de.akator.wurstfinger;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiensh.wurstfinger;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -554,7 +554,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4WPG6NQAWC;
+				DEVELOPMENT_TEAM = ANA5H558Q2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Wurstfinger;
@@ -569,7 +569,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = de.akator.wurstfinger;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiensh.wurstfinger;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -654,7 +654,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4WPG6NQAWC;
+				DEVELOPMENT_TEAM = ANA5H558Q2;
 				ENABLE_TESTABILITY = YES;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = wurstfingerKeyboard/Info.plist;
@@ -665,7 +665,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = de.akator.wurstfinger.keyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiensh.wurstfinger.keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -684,7 +684,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4WPG6NQAWC;
+				DEVELOPMENT_TEAM = ANA5H558Q2;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = wurstfingerKeyboard/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = WurstfingerKeyboard;
@@ -694,7 +694,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = de.akator.wurstfinger.keyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiensh.wurstfinger.keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -710,7 +710,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4275118D2EAAF62000C5635A /* Build configuration list for PBXProject "Wurstfinger" */ = {
+		4275118D2EAAF62000C5635A /* Build configuration list for PBXProject "wurstfinger" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				427511B12EAAF62100C5635A /* Debug */,
